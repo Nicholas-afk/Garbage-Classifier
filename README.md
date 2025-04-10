@@ -1,8 +1,9 @@
-Garbage Classifier
-Description
+**Garbage Classifier**
+
+**Description**
 The Recycling Assistant is an AI-powered application that helps users properly sort and dispose of waste items. Using computer vision and machine learning, it identifies different types of trash and provides guidance on the correct recycling or disposal method.
 
-Features
+**Features**
 Real-time camera feed for scanning items
 
 Image upload capability for offline analysis
@@ -13,7 +14,7 @@ User-friendly GUI with clear disposal instructions
 
 Color-coded results for easy interpretation
 
-Installation
+**Installation**
 Clone the repository
 
 Install required dependencies:
@@ -22,7 +23,7 @@ text
 pip install PyQt5 torch torchvision opencv-python pillow
 Ensure the model file trash_classifier_finetuned_20250405_003634_best.pth is in the root directory
 
-Usage
+**Usage**
 Run the application:
 
 text
@@ -42,10 +43,10 @@ Pillow
 
 For a pre trianed model, download from here: https://drive.google.com/file/d/1RsYzTVHEJq8FK1OVERfJdd1U6x_Jyifg/view?usp=sharing, otherwise you may train your own model with yoour own datasets.
 
-License
+**License**
 MIT License
 
-Contributors
+**Contributors**
 Nicholas Tanner
 Tony Ren
 
