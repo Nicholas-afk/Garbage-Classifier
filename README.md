@@ -40,6 +40,7 @@ OpenCV
 
 Pillow
 
+For a pre trianed model, download from here: https://drive.google.com/file/d/1RsYzTVHEJq8FK1OVERfJdd1U6x_Jyifg/view?usp=sharing, otherwise you may train your own model.
 License
 MIT License
 
